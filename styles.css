@@ -1,1 +1,15 @@
-div {color:red;}
+div {color:rgb(75, 0, 0);}
+
+.alert-text {color: rgb(87, 87, 3);}
+
+#title {
+    background-color: blue
+}
+
+.ingredients, .recipe{
+    color: rgb(0, 0, 59);
+    font-family: "Times New Roman", sans-serif;
+    font-size: 25px;
+    font-weight: 100;
+    text-align: left;
+}
